@@ -1,2 +1,2 @@
 
-[Files](./Multimedia/table.JPG)
+![Files](../Multimedia/table.JPG)

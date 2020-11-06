@@ -4,9 +4,9 @@ A passive SONAR technique to locate an audio source emitting known frequency sou
 
 1. **Acoustic-source-localization-techniques.pdf** is the final report containing the full documentation of the project.__
 2. **Final-ppt.pdf** is a short pdf explaining the project__
-3. **Multimedia/Simulation_video.mp4** is a small video showing the working of simulation__\
+3. **Multimedia/Simulation_video.mp4** is a small video showing the working of simulation__
 
-[MATLAB Codes](Multimedia/table.jpg)
+[MATLAB Codes](./Multimedia/table.JPG)
 
 The project was performed by:
 

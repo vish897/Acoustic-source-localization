@@ -6,7 +6,7 @@ A passive SONAR technique to locate an audio source emitting known frequency sou
 2. **Final-ppt.pdf** is a short pdf explaining the project
 3. **Multimedia/Simulation_video.mp4** is a small video showing the working of simulation
 
-[MATLAB Codes](./Multimedia/table.JPG)
+![MATLAB Codes](./Multimedia/table.JPG)
 
 The project was performed by:
 

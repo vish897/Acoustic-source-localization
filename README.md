@@ -10,5 +10,5 @@ A passive SONAR technique to locate an audio source emitting known frequency sou
 
 The project was performed by:
 
- Mayank Mehta: https://cad2control450816836.wordpress.com/ __
+ Mayank Mehta: https://cad2control450816836.wordpress.com/__
  Vishva Bhate: https://sites.google.com/view/vishva-bhate

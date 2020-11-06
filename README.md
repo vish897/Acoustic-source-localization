@@ -8,4 +8,4 @@ A passive SONAR technique to locate an audio source emitting known frequency sou
 
 Check out the **codes/** for more information on how to run the files
 
-The project was performed by: **[Mayank Mehta](https://cad2control450816836.wordpress.com)** & **[Vishva Bhate](https://sites.google.com/view/vishva-bhate)**: 
+The project was performed by **[Mayank Mehta](https://cad2control450816836.wordpress.com)** & **[Vishva Bhate](https://sites.google.com/view/vishva-bhate)**: 
